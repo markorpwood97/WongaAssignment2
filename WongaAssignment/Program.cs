@@ -1,9 +1,6 @@
 ﻿using Autofac;
-using ConsoleUIA;
-using System;
-using WongaLibrary.Components;
 
-namespace WongaAssignment
+namespace ConsoleUIA
 {
     class Program
     {

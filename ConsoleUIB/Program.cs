@@ -1,8 +1,4 @@
 ﻿using Autofac;
-using ConsoleUIB;
-using System;
-using WongaLibrary;
-//using WongaLibrary.Components;
 
 namespace ConsoleUIB
 {

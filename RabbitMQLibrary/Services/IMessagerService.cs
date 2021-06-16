@@ -4,6 +4,5 @@
     {
         void SendMessage(string message, string queue);
         string GetMessage(string queue);
-
     }
 }
